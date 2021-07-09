@@ -1,0 +1,10 @@
+.trEffect {
+    transition: all 0.3s;
+}
+.trEffect:hover {
+    background-color: aqua;
+}
+
+a {
+    cursor: pointer;
+}
